@@ -36,32 +36,32 @@ Subjects: 1. Signs & Symbols 2. Architecture<br>
 
 ## Content
 
-List of Illustrations
-Acknowldgements
-Introduction
-Chronology of the Taj Mahal
-
-Part I: Farmans
-
-Royal Farman to Raja Jai Sing
-
-Part II. Inscriptions
-
-\[Taj Ganj\]
-\[Jilaukhana\]
-Darwaza-e-Rauza
-\[Charbagh\]
-Mausoleum
-Doorway
-Octagon
-\[Mehtab Bagh\]
-
-Part III: Narration
-
-Padshah Nama of Qazwini
-Padshah Nama of Lahori
-Padshah Nama of Kalim
-Zafar Nama-i-Shaha Jahan of Qudsi
+List of Illustrations<br>
+Acknowldgements<br>
+Introduction<br>
+Chronology of the Taj Mahal<br>
+<br>
+Part I: Farmans<br>
+<br>
+Royal Farman to Raja Jai Sing<br>
+<br>
+Part II. Inscriptions<br>
+<br>
+\[Taj Ganj\]<br>
+\[Jilaukhana\]<br>
+Darwaza-e-Rauza<br>
+\[Charbagh\]<br>
+Mausoleum<br>
+Doorway<br>
+Octagon<br>
+\[Mehtab Bagh\]<br>
+<br>
+Part III: Narration<br>
+<br>
+Padshah Nama of Qazwini<br>
+Padshah Nama of Lahori<br>
+Padshah Nama of Kalim<br>
+Zafar Nama-i-Shaha Jahan of Qudsi<br>
 
 ## List of Illustrations
 
