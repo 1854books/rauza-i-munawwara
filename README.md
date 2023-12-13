@@ -1,6 +1,8 @@
 # The Illumined Tomb
 ![img](it.jpg)
-## پادشاه‌نامه [^1]\
+
+## &lrm;پادشاه‌نامه [^1]
+
 
 \[Taj Mahal:\] روضه منواره [^2]
 <br>anatomy of a history<br>
@@ -12,7 +14,7 @@ Joker<br>
 मृत्योर्माऽमृतं गमय ॥<br>
 ॐ शान्तिः शान्तिः शान्तिः ॥<br>
 
-# Copyright
+## Copyright
 
 Copyright © 2020 Joker
 
@@ -33,7 +35,7 @@ Title: The Illumined Tomb/ Joker<br>
 ASIN:<br>
 Subjects: 1. Signs & Symbols 2. Architecture<br>
 
-# Content
+## Content
 
 List of Illustrations
 Acknowldgements
@@ -62,7 +64,7 @@ Padshah Nama of Lahori
 Padshah Nama of Kalim
 Zafar Nama-i-Shaha Jahan of Qudsi
 
-# List of Illustrations
+## List of Illustrations
 
 Frontcover: Gateway of Taj Mahal[^4]<br>
 Introduction: Inside the Taj Mahal[^5]<br>
@@ -86,23 +88,22 @@ Octagon, Southwest<br>
 Octagon, West<br>
 Octagon, Northwest<br>
 
-# Dedication 
+## Dedication 
 
 DEDICATED TO THE MEMORY OF
+&lrm;تصویر نابینایی, surat al-‘ama: “Image of the Obscurity”[^6]
 
-تصویر نابینایی, *surat al-‘ama*: “Image of the Obscurity”[^6]
+## Acknowledgements
 
-# Acknowledgements
+*Taj Mahal: The Illumined Tomb*
 
- *Taj Mahal: The Illumined Tomb*
-
-# Introduction
+## Introduction
 
 > Socrates: Then in every way such prisoners would deem reality to be
 > nothing else than the shadows of the artificial objects (*Republic*
 > 515b-c).[^7]
 
-# Chronology of The Illumined Tomb
+## Chronology of The Illumined Tomb
 
 C. 0409 AH Mahmud of Ghazni Razes Agra[^8]
 
@@ -133,9 +134,9 @@ C. 0409 AH Mahmud of Ghazni Razes Agra[^8]
 1327 AH George Nathaniel Curzon Carries Out Building Repairs And Modifications<br>
 1437 AH Archeological Survey of India Begins Intermittent Repairs<br>
 
-# Part I: Farman 
+## Part I: Farman 
 
-## Farman To Raja Jai Singh
+### Farman To Raja Jai Singh
 
 > The mansions (haveli), together with their dependencies, belonging to
 > the august crown estate, in exchange for the mansion (havelt)
@@ -145,9 +146,9 @@ C. 0409 AH Mahmud of Ghazni Razes Agra[^8]
 > granted by us to the said Raja and settled on him in full ownership
 > (Begley, *Taj Mahal* 170).[^9]
 
-# Part II: Inscriptions
+## Part II: Inscriptions
 
-## Darwaza-e-Rauza
+### Darwaza-e-Rauza
 
 Al-Fajr (The Daybreak)[^10]
 > IN THE NAME OF GOD, THE MOST GRACIOUS, THE DISPENSER OF GRACE:<br>
@@ -200,9 +201,9 @@ Al-Fajr (The Daybreak)[^10]
 > \(29\) enter, then, together with My \[other true\] servants –<br>
 > \(30\) yea, enter thou My paradise!”<br>
 
-# Part III: Narrations  
+## Part III: Narrations  
 
-## Padshah Nama of Qazwini
+### Padshah Nama of Qazwini
 
 > \[fol. 43a\] THE BEGINNING OF THE WORLD-ILLUMINATION OF THE KING OF
 > LOFTY FORTUNE, THE BETROTHAL OF THE LADY, HER MAJESTY THE QUEEN
@@ -211,7 +212,7 @@ Al-Fajr (The Daybreak)[^10]
 > (SAHIB-I-RISALAGI-I-KUL), AND OTHER EVENTS (Begley, *Taj Mahal*
 > 1).[^11]
 
-## Padshah Nama of Lahori
+### Padshah Nama of Lahori
 
 > On the night of the 17th of Zil-Qada 1052 \[6 February 1643\], the
 > assembly of the death anniversary (urs) of Her late Majesty the Queen,
@@ -228,7 +229,7 @@ Al-Fajr (The Daybreak)[^10]
 > distributed the remaining half among the assembled women (Begley, *Taj
 > Mahal* 65).[^12]
 
-## Padshah Nama of Kalim
+### Padshah Nama of Kalim
 
 > \(1\) Upon her grave—may it be illumined till the Resurrection!—The
 > King of Kings constructed such an edifice,<br>
@@ -241,7 +242,7 @@ Al-Fajr (The Daybreak)[^10]
 > (5)Since heaven’s vault has been standing, an edifce like this Has
 > never risen to compete against the sky (Begley, *Taj Mahal* 82).[^13]
 
-## Zafar Nama-i-Shah Jahan of Qudsi
+### Zafar Nama-i-Shah Jahan of Qudsi
 
 > \(1\) How excellent is the holy tomb of the Bilqis of the Age, Which
 > became the couch of that Lady of the Universe.<br>
@@ -254,7 +255,7 @@ Al-Fajr (The Daybreak)[^10]
 > \(5\) The builder of this sacred threshold, Has brought its water
 > \[luster\] from the fountainhead of divine beauty (Begley, *Taj Mahal* 85).[^14]
 
-# Bibliography
+## Bibliography
 
 painting, with watercolour, Wellcome Collection, c. 1800, pp. Agra: the
 Taj Mahal, interior view of the vaulted dome over the tombs of Shah
@@ -283,16 +284,14 @@ white building \[Taj Mahal\].
 Sharma, Sunil. *Persian Poetry at the Indian Frontier: Masʻŝud Saʻd
 Salmân of Lahore.* Permanent Black, 2000.
 
-[^1]: پادشاه‌نامه, *padshah nama*: “Chronicle of the Emperor” (Page
-    xxiii)
+[^1]: &lrm;پادشاه‌نامه, padshah nama: “Chronicle of the Emperor” (Page xxiii)
 
     Begley, Wayne Edison and Ziyaud-Din A. Desai. *Taj Mahal: The
     Illumined Tomb : An Anthology of Seventeenth-Century Mughal and
     European Documentary Sources.* Aga Khan Program for Islamic
     Architecture, 1989.
 
-[^2]: روضه منواره, *rauza-i munawwara:* “The Illumined Tomb \[In A
-    Garden\]”
+[^2]:&lrm;روضه منواره, rauza-i munawwara: “The Illumined Tomb [In A Garden]”
 
 [^3]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
