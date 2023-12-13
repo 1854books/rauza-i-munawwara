@@ -96,6 +96,8 @@ DEDICATED TO THE MEMORY OF<br>
 
 *Taj Mahal: The Illumined Tomb*
 
+![img](iit.jpg)
+
 ## Introduction
 
 > Socrates: Then in every way such prisoners would deem reality to be
