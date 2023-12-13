@@ -3,7 +3,6 @@
 
 ## &lrm;پادشاه‌نامه [^1]
 
-
 \[Taj Mahal:\] روضه منواره [^2]
 <br>anatomy of a history<br>
 by<br>
@@ -90,7 +89,7 @@ Octagon, Northwest<br>
 
 ## Dedication 
 
-DEDICATED TO THE MEMORY OF
+DEDICATED TO THE MEMORY OF<br>
 &lrm;تصویر نابینایی, surat al-‘ama: “Image of the Obscurity”[^6]
 
 ## Acknowledgements
@@ -150,7 +149,6 @@ C. 0409 AH Mahmud of Ghazni Razes Agra[^8]
 
 ### Darwaza-e-Rauza
 
-Al-Fajr (The Daybreak)[^10]
 > IN THE NAME OF GOD, THE MOST GRACIOUS, THE DISPENSER OF GRACE:<br>
 > \(1\) CONSIDER the daybreak<br>
 > \(2\) and the ten nights!<br>
@@ -199,7 +197,7 @@ Al-Fajr (The Daybreak)[^10]
 > \(28\) Return thou unto thy Sustainer, well-pleased \[and\] pleasing
 > \[Him\]:<br>
 > \(29\) enter, then, together with My \[other true\] servants –<br>
-> \(30\) yea, enter thou My paradise!”<br>
+> \(30\) yea, enter thou My paradise!”(*Message of the Qurʼan* 89.1-30)[^10]
 
 ## Part III: Narrations  
 
