@@ -56,7 +56,7 @@ Doorway<br>
 Octagon<br>
 \[Mehtab Bagh\]<br>
 <br>
-Part III: Narration<br>
+Part III: Narrations<br>
 <br>
 Padshah Nama of Qazwini<br>
 Padshah Nama of Lahori<br>
