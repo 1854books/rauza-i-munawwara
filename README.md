@@ -284,22 +284,13 @@ white building \[Taj Mahal\].
 Sharma, Sunil. *Persian Poetry at the Indian Frontier: Masʻŝud Saʻd
 Salmân of Lahore.* Permanent Black, 2000.
 
-[^1]: &lrm;پادشاه‌نامه, padshah nama: “Chronicle of the Emperor” (Page xxiii)
+[^1]: &lrm;پادشاه‌نامه, padshah nama: “Chronicle of the Emperor (Begley, xxiii)"
 
-    Begley, Wayne Edison and Ziyaud-Din A. Desai. *Taj Mahal: The
-    Illumined Tomb : An Anthology of Seventeenth-Century Mughal and
-    European Documentary Sources.* Aga Khan Program for Islamic
-    Architecture, 1989.
-
-[^2]:&lrm;روضه منواره, rauza-i munawwara: “The Illumined Tomb [In A Garden]”
+[^2]: &lrm;روضه منواره, rauza-i munawwara: “The Illumined Tomb [In A Garden]”
 
 [^3]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
     one’s ambition (Belsare, 577).
-
-    Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
-    Gujarati-English Dictionary\].* 2nd Edition, Asian Educational
-    Services, 2002.
 
 [^4]: Sehrawat, Sourabh. 2022, p. a group of people standing in front of
     a white building \[Taj Mahal\].
