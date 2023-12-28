@@ -286,7 +286,7 @@ Salmân of Lahore.* Permanent Black, 2000.
 
 [^1]: &lrm;پادشاه‌نامه, padshah nama: “Chronicle of the Emperor (Begley, xxiii)"
 
-[^2]: &lrm;روضه منواره, rauza-i munawwara: “The Illumined Tomb [In A Garden]”
+[^2]: &lrm;روضه منواره, rauza-i-munawwara: “The Illumined Tomb [In A Garden] (Begley, 49)”
 
 [^3]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
