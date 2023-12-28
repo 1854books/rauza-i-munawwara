@@ -106,7 +106,7 @@ DEDICATED TO THE MEMORY OF<br>
 
 ## Chronology of The Illumined Tomb
 
-C. 0409 AH Mahmud of Ghazni Razes Agra[^7]
+C. 0409 AH Mahmud of Ghazni Pillages Agra[^7]
 
 0910 AH Sikandar Khan Lodi Commissons Construction of Agra<br>
 0923 AH Ibrahim Lodi Makes Agra The Capital<br>
