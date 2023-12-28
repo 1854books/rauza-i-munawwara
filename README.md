@@ -199,7 +199,7 @@ C. 0409 AH Mahmud of Ghazni Razes Agra[^7]
 > \(28\) Return thou unto thy Sustainer, well-pleased \[and\] pleasing
 > \[Him\]:<br>
 > \(29\) enter, then, together with My \[other true\] servants –<br>
-> \(30\) yea, enter thou My paradise!”(*Message of the Qurʼan* 89.1-30)[^9]
+> \(30\) yea, enter thou My paradise!”(*Message of the Qurʼan* 89.1-30)
 
 ## Part III: Narrations  
 
@@ -210,7 +210,7 @@ C. 0409 AH Mahmud of Ghazni Razes Agra[^7]
 > (NAWWAB MAHD-ULYA), MUMTAZ AL-ZAMANI TO HIS MAJESTY, AND HIS
 > APPOINMENT TO THE POST OF MASTER OF CORRESPONDENCE
 > (SAHIB-I-RISALAGI-I-KUL), AND OTHER EVENTS (Begley and Desai
-> 1).[^10]
+> 1).[^9]
 
 ### Padshah Nama of Lahori
 
@@ -227,7 +227,7 @@ C. 0409 AH Mahmud of Ghazni Razes Agra[^7]
 > liberality distributed at this function half of the fixed sum of
 > 50,000 rupees, and the next morning, he returned again, and
 > distributed the remaining half among the assembled women (Begley and Desai
-> 65).[^11]
+> 65).[^10]
 
 ### Padshah Nama of Kalim
 
@@ -240,7 +240,7 @@ C. 0409 AH Mahmud of Ghazni Razes Agra[^7]
 > (4)That, even if they became submerged in water, Its couplets (bait)
 > \[also meaans house\] would escape ruin.<br>
 > (5)Since heaven’s vault has been standing, an edifce like this Has
-> never risen to compete against the sky (Begley and Desai 82).[^12]
+> never risen to compete against the sky (Begley and Desai 82).[^11]
 
 ### Zafar Nama-i-Shah Jahan of Qudsi
 
@@ -253,7 +253,7 @@ C. 0409 AH Mahmud of Ghazni Razes Agra[^7]
 > \(4\) Its walls are studded with precious gems, Lending the air
 > exhirlatering freshness from their watery luster.<br>
 > \(5\) The builder of this sacred threshold, Has brought its water
-> \[luster\] from the fountainhead of divine beauty (Begley and Desai 85).[^14]
+> \[luster\] from the fountainhead of divine beauty (Begley and Desai 85).[^12]
 
 ## Bibliography
 
@@ -309,15 +309,12 @@ Salmân of Lahore.* Permanent Black, 2000.
 
 [^8]: Jaipur City Palace, Kapad Dwara Collection, K.D. No. 176/R.
 
-[^9]: *The Message of the Qurʼan.* Translated by Muhammad Asad, Book
-    Foundation, 2004.
-
-[^10]: Qazwini, Muhammad Amina. *Padshah Nama*. Br. Lib., MSS. Or. 174,
+[^9]: Qazwini, Muhammad Amina. *Padshah Nama*. Br. Lib., MSS. Or. 174,
     Or. 1671.
 
-[^11]: Lahori, ‘Abd Al-Hamid. *Padsha Nama*, ed by Maulvi Kabiruddin and
+[^10]: Lahori, ‘Abd Al-Hamid. *Padsha Nama*, ed by Maulvi Kabiruddin and
     Maulvi Abdur Rahim, 2 vols. Cacutta, Bibiltheca Indica, 1867-72.
 
-[^12]: Kalim, Abu Talib, *Padshah Nama*, Br. Lib., MS. Or 357.
+[^11]: Kalim, Abu Talib, *Padshah Nama*, Br. Lib., MS. Or 357.
 
-[^13]: Qudsi, Muhammad Jan*. Zafar Nama-i-Shah Jahan*, various MSS.
+[^12]: Qudsi, Muhammad Jan*. Zafar Nama-i-Shah Jahan*, various MSS.
