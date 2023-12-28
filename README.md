@@ -284,13 +284,13 @@ white building \[Taj Mahal\].
 Sharma, Sunil. *Persian Poetry at the Indian Frontier: Masʻŝud Saʻd
 Salmân of Lahore.* Permanent Black, 2000.
 
-[^1]: &lrm;پادشاه‌نامه, padshah nama: “Chronicle of the Emperor (Begley, xxiii)"
+[^1]: &lrm;پادشاه‌نامه, padshah nama: “Chronicle of the Emperor (Begley xxiii)"
 
-[^2]: &lrm;روضه منواره, rauza-i-munawwara: “The Illumined Tomb [In A Garden] (Begley, 49)”
+[^2]: &lrm;روضه منواره, rauza-i-munawwara: “The Illumined Tomb [In A Garden] (Begley 49)”
 
 [^3]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
-    one’s ambition (Belsare, 577).
+    one’s ambition (Belsare 577).
 
 [^4]: Sehrawat, Sourabh. 2022, p. a group of people standing in front of
     a white building \[Taj Mahal\].
