@@ -101,12 +101,12 @@ DEDICATED TO THE MEMORY OF<br>
 ## Introduction
 
 > Socrates: Then in every way such prisoners would deem reality to be
-> nothing else than the shadows of the artificial objects (*Republic*
-> 515b-c).[^7]
+> nothing else than the shadows of the artificial objects (Plato
+> 515b-c).
 
 ## Chronology of The Illumined Tomb
 
-C. 0409 AH Mahmud of Ghazni Razes Agra[^8]
+C. 0409 AH Mahmud of Ghazni Razes Agra[^7]
 
 0910 AH Sikandar Khan Lodi Commissons Construction of Agra<br>
 0923 AH Ibrahim Lodi Makes Agra The Capital<br>
@@ -145,7 +145,7 @@ C. 0409 AH Mahmud of Ghazni Razes Agra[^8]
 > al-Mulk), for the sake of the Illumined Tomb, willingly and
 > voluntarily donated as a gift (peshkash namudand), have hereby been
 > granted by us to the said Raja and settled on him in full ownership
-> (Begley, *Taj Mahal* 170).[^9]
+> (Begley and Desai 170).[^8]
 
 ## Part II: Inscriptions
 
@@ -199,7 +199,7 @@ C. 0409 AH Mahmud of Ghazni Razes Agra[^8]
 > \(28\) Return thou unto thy Sustainer, well-pleased \[and\] pleasing
 > \[Him\]:<br>
 > \(29\) enter, then, together with My \[other true\] servants –<br>
-> \(30\) yea, enter thou My paradise!”(*Message of the Qurʼan* 89.1-30)[^10]
+> \(30\) yea, enter thou My paradise!”(*Message of the Qurʼan* 89.1-30)[^9]
 
 ## Part III: Narrations  
 
@@ -209,8 +209,8 @@ C. 0409 AH Mahmud of Ghazni Razes Agra[^8]
 > LOFTY FORTUNE, THE BETROTHAL OF THE LADY, HER MAJESTY THE QUEEN
 > (NAWWAB MAHD-ULYA), MUMTAZ AL-ZAMANI TO HIS MAJESTY, AND HIS
 > APPOINMENT TO THE POST OF MASTER OF CORRESPONDENCE
-> (SAHIB-I-RISALAGI-I-KUL), AND OTHER EVENTS (Begley, *Taj Mahal*
-> 1).[^11]
+> (SAHIB-I-RISALAGI-I-KUL), AND OTHER EVENTS (Begley and Desai
+> 1).[^10]
 
 ### Padshah Nama of Lahori
 
@@ -226,8 +226,8 @@ C. 0409 AH Mahmud of Ghazni Razes Agra[^8]
 > that bountiful place with his presence, the Monarch of ocean-like
 > liberality distributed at this function half of the fixed sum of
 > 50,000 rupees, and the next morning, he returned again, and
-> distributed the remaining half among the assembled women (Begley, *Taj
-> Mahal* 65).[^12]
+> distributed the remaining half among the assembled women (Begley and Desai
+> 65).[^11]
 
 ### Padshah Nama of Kalim
 
@@ -240,7 +240,7 @@ C. 0409 AH Mahmud of Ghazni Razes Agra[^8]
 > (4)That, even if they became submerged in water, Its couplets (bait)
 > \[also meaans house\] would escape ruin.<br>
 > (5)Since heaven’s vault has been standing, an edifce like this Has
-> never risen to compete against the sky (Begley, *Taj Mahal* 82).[^13]
+> never risen to compete against the sky (Begley and Desai 82).[^12]
 
 ### Zafar Nama-i-Shah Jahan of Qudsi
 
@@ -253,7 +253,7 @@ C. 0409 AH Mahmud of Ghazni Razes Agra[^8]
 > \(4\) Its walls are studded with precious gems, Lending the air
 > exhirlatering freshness from their watery luster.<br>
 > \(5\) The builder of this sacred threshold, Has brought its water
-> \[luster\] from the fountainhead of divine beauty (Begley, *Taj Mahal* 85).[^14]
+> \[luster\] from the fountainhead of divine beauty (Begley and Desai 85).[^14]
 
 ## Bibliography
 
@@ -284,9 +284,9 @@ white building \[Taj Mahal\].
 Sharma, Sunil. *Persian Poetry at the Indian Frontier: Masʻŝud Saʻd
 Salmân of Lahore.* Permanent Black, 2000.
 
-[^1]: &lrm;پادشاه‌نامه, padshah nama: “Chronicle of the Emperor (Begley xxiii)"
+[^1]: &lrm;پادشاه‌نامه, padshah nama: “Chronicle of the Emperor (Begley and Desai xxiii)"
 
-[^2]: &lrm;روضه منواره, rauza-i-munawwara: “The Illumined Tomb [In A Garden] (Begley 49)”
+[^2]: &lrm;روضه منواره, rauza-i-munawwara: “The Illumined Tomb [In A Garden] (Begley and Desai 49)”
 
 [^3]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
@@ -304,23 +304,20 @@ Salmân of Lahore.* Permanent Black, 2000.
     Its Symbolic Meaning." *The Art Bulletin*, vol. 61, no. 1, 1979, pp.
     7-37.
 
-[^7]: Plato. *Plato in Twelve Volumes.* Translated by Paul Shorey, vol.
-    6, Harvard University Press, 1935.
-
-[^8]: Sharma, Sunil. *Persian Poetry at the Indian Frontier: Masʻŝud
+[^7]: Sharma, Sunil. *Persian Poetry at the Indian Frontier: Masʻŝud
     Saʻd Salmân of Lahore.* Permanent Black, 2000.
 
-[^9]: Jaipur City Palace, Kapad Dwara Collection, K.D. No. 176/R.
+[^8]: Jaipur City Palace, Kapad Dwara Collection, K.D. No. 176/R.
 
-[^10]: *The Message of the Qurʼan.* Translated by Muhammad Asad, Book
+[^9]: *The Message of the Qurʼan.* Translated by Muhammad Asad, Book
     Foundation, 2004.
 
-[^11]: Qazwini, Muhammad Amina. *Padshah Nama*. Br. Lib., MSS. Or. 174,
+[^10]: Qazwini, Muhammad Amina. *Padshah Nama*. Br. Lib., MSS. Or. 174,
     Or. 1671.
 
-[^12]: Lahori, ‘Abd Al-Hamid. *Padsha Nama*, ed by Maulvi Kabiruddin and
+[^11]: Lahori, ‘Abd Al-Hamid. *Padsha Nama*, ed by Maulvi Kabiruddin and
     Maulvi Abdur Rahim, 2 vols. Cacutta, Bibiltheca Indica, 1867-72.
 
-[^13]: Kalim, Abu Talib, *Padshah Nama*, Br. Lib., MS. Or 357.
+[^12]: Kalim, Abu Talib, *Padshah Nama*, Br. Lib., MS. Or 357.
 
-[^14]: Qudsi, Muhammad Jan*. Zafar Nama-i-Shah Jahan*, various MSS.
+[^13]: Qudsi, Muhammad Jan*. Zafar Nama-i-Shah Jahan*, various MSS.
