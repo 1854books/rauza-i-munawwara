@@ -90,7 +90,7 @@ Octagon, Northwest<br>
 ## Dedication 
 
 DEDICATED TO THE MEMORY OF<br>
-&lrm;تصویر نابینایی, surat al-‘ama: “Image of the Obscurity”[^6]
+&lrm;تصویر نابینایی[^6]
 
 ## Acknowledgements
 
@@ -199,7 +199,7 @@ C. 0409 AH Mahmud of Ghazni Razes Agra[^7]
 > \(28\) Return thou unto thy Sustainer, well-pleased \[and\] pleasing
 > \[Him\]:<br>
 > \(29\) enter, then, together with My \[other true\] servants –<br>
-> \(30\) yea, enter thou My paradise!”(*Message of the Qurʼan* 89.1-30)
+> \(30\) yea, enter thou My paradise!”(*Message of the Qurʼan* 782)
 
 ## Part III: Narrations  
 
@@ -300,12 +300,9 @@ Salmân of Lahore.* Permanent Black, 2000.
     tombs of Shah Jahan and Mumtaz. Gouache painting by an Indian
     painter.
 
-[^6]: Begley, Wayne E. "The Myth of the Taj Mahal and a New Theory of
-    Its Symbolic Meaning." *The Art Bulletin*, vol. 61, no. 1, 1979, pp.
-    7-37.
+[^6]: &lrm;تصویر نابینایی, surat al-‘ama: “Image of the Obscurity” (Begley 34).
 
-[^7]: Sharma, Sunil. *Persian Poetry at the Indian Frontier: Masʻŝud
-    Saʻd Salmân of Lahore.* Permanent Black, 2000.
+[^7]: “[I]t is not clear who actually conquered Agra or when (Sharma 44-45).”
 
 [^8]: Jaipur City Palace, Kapad Dwara Collection, K.D. No. 176/R.
 
