@@ -1,4 +1,3 @@
-# The Illumined Tomb
 ![img](it.jpg)
 
 ## &lrm;پادشاه‌نامه [^1]
