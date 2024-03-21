@@ -5,7 +5,7 @@
 \[Taj Mahal:\] روضه منواره [^2]
 <br>anatomy of a history<br>
 by<br>
-Sri Purushottam Nagesh Oak<br>
+Joker<br>
 
 ॐ असतो मा सद्गमय ।<br>
 तमसो मा ज्योतिर्गमय ।<br>
@@ -14,7 +14,7 @@ Sri Purushottam Nagesh Oak<br>
 
 ## Copyright
 
-Copyright © 2023 Sri Purushottam Nagesh Oak
+Copyright © 2023 Joker
 
 All rights reserved.
 
@@ -28,8 +28,8 @@ Published in કલા નગરી, *kalā nagarī*: “city of art” by મ�
 
 Cataloging in Publication Data<br>
 <br>
-Name: Sri Purushottam Nagesh Oak, 2023— author<br>
-Title: The Illumined Tomb/ Sri Purushottam Nagesh Oak<br>
+Name: Joker, 2023— author<br>
+Title: The Illumined Tomb/ Joker<br>
 ASIN:<br>
 Subjects: 1. Signs & Symbols 2. Architecture<br>
 
