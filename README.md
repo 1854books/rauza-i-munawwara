@@ -105,23 +105,23 @@ DEDICATED TO THE MEMORY OF<br>
 
 ## Chronology of The Illumined Tomb
 
-C. 0409 AH Mahmud of Ghazni Pillages Agra[^7]
-
+0409 AH Mahmud of Ghazni Pillages Agra[^7]<br>
+<br>
 0910 AH Sikandar Khan Lodi Commissons Construction of Agra<br>
 0923 AH Ibrahim Lodi Makes Agra The Capital<br>
+<br>
 0933 AH Babur Catpures Agra<br>
 0947 AH Sher Shah Suri Captures Agra<br>
 0963 AH Humayun Captures Agra<br>
 0964 AH Hemu Captures Agra<br>
 0965 AH Akbar Captures Agra<br>
-0966 AH Akbar Makes Agra The Capital<br>
 <br>
+0966 AH Akbar Makes Agra The Capital<br>
 1039 AH Shah Jahan I Re-names Agra Akbarbad<br>
 1041 AH Shah Jahan I Commissions Construction of Tomb for Mumtaz Mahal<br>
 1042 AH Shah Jahan I Inters Mumtaz Mahal In The Illumined Tomb<br>
 1043 AH Shah Jahan I Issues Farman To Acquire Raja Man Sing’s Manzil<br>
 1046 AH Amanat Khan Shirazi Begins Inscription Work<br>
-<br>
 1062 AH Muhi al-Din Muhammad Carries Out Building Repairs<br>
 1077 AH Aurangzeb Alamgir I Inters Shah Jahan I In The Illumined Tomb<br>
 <br>
@@ -132,6 +132,7 @@ C. 0409 AH Mahmud of Ghazni Pillages Agra[^7]
 <br>
 1222 AH Gilbert John Elliot-Murray-Kynynmound Carries Out Building Repairs<br>
 1327 AH George Nathaniel Curzon Carries Out Building Repairs And Modifications<br>
+<br>
 1437 AH Archeological Survey of India Begins Intermittent Repairs<br>
 
 ## Part I: Farman 
