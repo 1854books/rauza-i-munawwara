@@ -278,8 +278,7 @@ Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 Plato. *Plato in Twelve Volumes.* Translated by Paul Shorey, vol. 6,
 Harvard University Press, 1935.
 
-Sehrawat, Sourabh. 2022, p. a group of people standing in front of a
-white building \[Taj Mahal\].
+Sehrawat, Sourabh. Unsplash, 2022, <a href="https://unsplash.com/photos/a-group-of-people-standing-in-front-of-a-white-building-fR7Gj0qSk64">a group of people standing in front of a white building \[Taj Mahal\]<a>.
 
 Sharma, Sunil. *Persian Poetry at the Indian Frontier: Masʻŝud Saʻd
 Salmân of Lahore.* Permanent Black, 2000.
