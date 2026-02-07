@@ -99,9 +99,7 @@ DEDICATED TO THE MEMORY OF<br>
 
 ## Introduction
 
-> Socrates: Then in every way such prisoners would deem reality to be
-> nothing else than the shadows of the artificial objects (Plato
-> 515b-c).
+
 
 ## Chronology of The Illumined Tomb
 
@@ -274,9 +272,6 @@ Documentary Sources.* Aga Khan Program for Islamic Architecture, 1989.
 Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 2002.
-
-Plato. *Plato in Twelve Volumes.* Translated by Paul Shorey, vol. 6,
-Harvard University Press, 1935.
 
 Sehrawat, Sourabh. <a href="https://unsplash.com/photos/a-group-of-people-standing-in-front-of-a-white-building-fR7Gj0qSk64">"a group of people standing in front of a white building \[Taj Mahal\]"<a>. Unsplash, 2022, unsplash.com/photos/a-group-of-people-standing-in-front-of-a-white-building-fR7Gj0qSk64. 1 January 2023.
 
