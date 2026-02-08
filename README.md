@@ -23,8 +23,7 @@ system, stored in a database and / or published in any form or by any
 means, electronic, mechanical, photocopying, recording or otherwise,
 without the prior written permission of the publisher.
 
-Published in કલા નગરી, *kalā nagarī*: “city of art” by મન, *man*:
-“mind”[^3]
+Published in  કલા નગરી, *kalā nagarī*: "city of art"[^3] by મન, *man*: "mind"[^4]
 
 Cataloging in Publication Data<br>
 <br>
@@ -64,8 +63,8 @@ Zafar Nama-i-Shaha Jahan of Qudsi<br>
 
 ## List of Illustrations
 
-Frontcover: Gateway of Taj Mahal[^4]<br>
-Introduction: Inside the Taj Mahal[^5]<br>
+Frontcover: Gateway of Taj Mahal[^5]<br>
+Introduction: Inside the Taj Mahal[^6]<br>
 <br>
 Gateway, South Arch<br>
 Gateway, North Arch<br>
@@ -89,11 +88,11 @@ Octagon, Northwest<br>
 ## Dedication 
 
 DEDICATED TO THE MEMORY OF<br>
-&lrm;تصویر نابینایی[^6]
+&lrm;تصویر نابینایی[^7]
 
 ## Acknowledgements
 
-*Taj Mahal: The Illumined Tomb*
+School of Art and Art History
 
 ![img](iit.jpg)
 
@@ -112,7 +111,7 @@ DEDICATED TO THE MEMORY OF<br>
 
 ## Chronology of The Illumined Tomb
 
-0409 AH Mahmud of Ghazni Pillages Agra[^7]<br>
+0409 AH Mahmud of Ghazni Pillages Agra[^8]<br>
 <br>
 0910 AH Sikandar Khan Lodi Commissons Construction of Agra<br>
 0923 AH Ibrahim Lodi Makes Agra The Capital<br>
@@ -152,7 +151,7 @@ DEDICATED TO THE MEMORY OF<br>
 > al-Mulk), for the sake of the Illumined Tomb, willingly and
 > voluntarily donated as a gift (peshkash namudand), have hereby been
 > granted by us to the said Raja and settled on him in full ownership
-> (Begley and Desai 170).[^8]
+> (Begley and Desai 170).[^9]
 
 ## Part II: Inscriptions
 
@@ -217,7 +216,7 @@ DEDICATED TO THE MEMORY OF<br>
 > (NAWWAB MAHD-ULYA), MUMTAZ AL-ZAMANI TO HIS MAJESTY, AND HIS
 > APPOINMENT TO THE POST OF MASTER OF CORRESPONDENCE
 > (SAHIB-I-RISALAGI-I-KUL), AND OTHER EVENTS (Begley and Desai
-> 1).[^9]
+> 1).[^10]
 
 ### Padshah Nama of Lahori
 
@@ -234,7 +233,7 @@ DEDICATED TO THE MEMORY OF<br>
 > liberality distributed at this function half of the fixed sum of
 > 50,000 rupees, and the next morning, he returned again, and
 > distributed the remaining half among the assembled women (Begley and Desai
-> 65).[^10]
+> 65).[^11]
 
 ### Padshah Nama of Kalim
 
@@ -247,7 +246,7 @@ DEDICATED TO THE MEMORY OF<br>
 > (4)That, even if they became submerged in water, Its couplets (bait)
 > \[also meaans house\] would escape ruin.<br>
 > (5)Since heaven’s vault has been standing, an edifce like this Has
-> never risen to compete against the sky (Begley and Desai 82).[^11]
+> never risen to compete against the sky (Begley and Desai 82).[^12]
 
 ### Zafar Nama-i-Shah Jahan of Qudsi
 
@@ -260,7 +259,7 @@ DEDICATED TO THE MEMORY OF<br>
 > \(4\) Its walls are studded with precious gems, Lending the air
 > exhirlatering freshness from their watery luster.<br>
 > \(5\) The builder of this sacred threshold, Has brought its water
-> \[luster\] from the fountainhead of divine beauty (Begley and Desai 85).[^12]
+> \[luster\] from the fountainhead of divine beauty (Begley and Desai 85).[^13]
 
 ## Bibliography
 
@@ -293,30 +292,32 @@ Salmân of Lahore.* Permanent Black, 2000.
 
 [^2]: &lrm;روضه منواره, rauza-i-munawwara: “The Illumined Tomb [In A Garden] (Begley and Desai 49)”
 
-[^3]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
+[^3]: કલા, Classical form of કળા An art (Belsare 227) + નગર a city (Belsare 301).
+
+[^4]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
     one’s ambition (Belsare 577).
 
-[^4]: Sehrawat, Sourabh. 2022, p. a group of people standing in front of
+[^5]: Sehrawat, Sourabh. 2022, p. a group of people standing in front of
     a white building \[Taj Mahal\].
 
-[^5]: painting, with watercolour, Wellcome Collection, c. 1800, pp.
+[^6]: painting, with watercolour, Wellcome Collection, c. 1800, pp.
     Agra: the Taj Mahal, interior view of the vaulted dome over the
     tombs of Shah Jahan and Mumtaz. Gouache painting by an Indian
     painter.
 
-[^6]: &lrm;تصویر نابینایی, surat al-‘ama: “Image of the Obscurity” (Begley 34).
+[^7]: &lrm;تصویر نابینایی, surat al-‘ama: “Image of the Obscurity” (Begley 34).
 
-[^7]: “[I]t is not clear who actually conquered Agra or when (Sharma 44-45).”
+[^8]: “[I]t is not clear who actually conquered Agra or when (Sharma 44-45).”
 
-[^8]: Jaipur City Palace, Kapad Dwara Collection, K.D. No. 176/R.
+[^9]: Jaipur City Palace, Kapad Dwara Collection, K.D. No. 176/R.
 
-[^9]: Qazwini, Muhammad Amina. *Padshah Nama*. Br. Lib., MSS. Or. 174,
+[^10]: Qazwini, Muhammad Amina. *Padshah Nama*. Br. Lib., MSS. Or. 174,
     Or. 1671.
 
-[^10]: Lahori, ‘Abd Al-Hamid. *Padsha Nama*, ed by Maulvi Kabiruddin and
+[^11]: Lahori, ‘Abd Al-Hamid. *Padsha Nama*, ed by Maulvi Kabiruddin and
     Maulvi Abdur Rahim, 2 vols. Cacutta, Bibiltheca Indica, 1867-72.
 
-[^11]: Kalim, Abu Talib, *Padshah Nama*, Br. Lib., MS. Or 357.
+[^12]: Kalim, Abu Talib, *Padshah Nama*, Br. Lib., MS. Or 357.
 
-[^12]: Qudsi, Muhammad Jan*. Zafar Nama-i-Shah Jahan*, various MSS.
+[^13]: Qudsi, Muhammad Jan*. Zafar Nama-i-Shah Jahan*, various MSS.
