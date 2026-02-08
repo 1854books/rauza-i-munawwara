@@ -99,7 +99,16 @@ DEDICATED TO THE MEMORY OF<br>
 
 ## Introduction
 
-
+> THE STYLE of Muslim kingship that evolved in the fifteenth and sixteenth centuries was
+> deeply rooted in the memory of Timur (r. 1370–1405). A Barlas Turk of common birth,
+> he rose from Central Asia to conquer territories in Anatolia, Syria, Iraq, Iran, India,
+> and Russia, and he was on his way to subjugate China when he died. The awe that Timur
+> inspired at the time is difficult to imagine today. Thus modern scholarship tends to treat
+> Timur as his enemies did: Timur the Lame (Timur-i Lang), or Tamerlane, an unspeakably cruel
+> conqueror who wrought destruction on a continent not yet recovered from the ravages of the
+> Mongol invasion led by Chinggis Khan. However, this image ignores an important strand of
+> social memory that revered Timur as the charismatic “Lord of Conjunction” (Sahib Qiran) and
+> made him a central object of admiration and imitation for later Muslim sovereigns (Moin 43). 
 
 ## Chronology of The Illumined Tomb
 
@@ -272,6 +281,8 @@ Documentary Sources.* Aga Khan Program for Islamic Architecture, 1989.
 Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 2002.
+
+Moin, A. Azfar. *The Millennial Sovereign: Sacred Kingship and Sainthood in Islam.* United Kingdom, Columbia University Press, 2012.
 
 Sehrawat, Sourabh. <a href="https://unsplash.com/photos/a-group-of-people-standing-in-front-of-a-white-building-fR7Gj0qSk64">"a group of people standing in front of a white building \[Taj Mahal\]"<a>. Unsplash, 2022, unsplash.com/photos/a-group-of-people-standing-in-front-of-a-white-building-fR7Gj0qSk64. 1 January 2023.
 
