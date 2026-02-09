@@ -92,7 +92,7 @@ DEDICATED TO THE MEMORY OF<br>
 
 ## Acknowledgements
 
-<i>Taj Mahal: The Illumined Tomb<i>
+Begley, W. E., and Ziyaud-Din A. Desai, compilers and translators. Taj Mahal: The Illumined Tomb: An Anthology of Seventeenth-Century Mughal and European Documentary Sources. Aga Khan Program for Islamic Architecture; distributed by University of Washington Press, 1989.
 
 ![img](iit.jpg)
 
