@@ -92,7 +92,7 @@ DEDICATED TO THE MEMORY OF<br>
 
 ## Acknowledgements
 
-School of Art and Art History
+<i>Taj Mahal: The Illumined Tomb<i>
 
 ![img](iit.jpg)
 
