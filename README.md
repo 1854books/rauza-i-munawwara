@@ -98,16 +98,21 @@ Begley, W. E., and Ziyaud-Din A. Desai, compilers and translators. Taj Mahal: Th
 
 ## Introduction
 
-> THE STYLE of Muslim kingship that evolved in the fifteenth and sixteenth centuries was
-> deeply rooted in the memory of Timur (r. 1370–1405). A Barlas Turk of common birth,
-> he rose from Central Asia to conquer territories in Anatolia, Syria, Iraq, Iran, India,
-> and Russia, and he was on his way to subjugate China when he died. The awe that Timur
-> inspired at the time is difficult to imagine today. Thus modern scholarship tends to treat
-> Timur as his enemies did: Timur the Lame (Timur-i Lang), or Tamerlane, an unspeakably cruel
-> conqueror who wrought destruction on a continent not yet recovered from the ravages of the
-> Mongol invasion led by Chinggis Khan. However, this image ignores an important strand of
-> social memory that revered Timur as the charismatic “Lord of Conjunction” (Sahib Qiran) and
-> made him a central object of admiration and imitation for later Muslim sovereigns (Moin 43). 
+The cosmos is nothing in its existence except for the forms (al-ṣuwar)
+that were received by the Cloud and thus achieved manifestation in it.
+And the cosmos, when you gaze at its reality, is a vanishing accident
+(ʿaraḍ zāʾil) … The fixed substance (al-jawhar al-thābit) is the Cloud,
+which is nothing but the Breath of the all-Merciful, and the cosmos is
+everything that has become manifest in it of the forms. They are acci-
+dents that can possibly vanish. These forms are the possible things, and
+their relationship to the Cloud is the relation of forms that become mani-
+fest in a mirror to the eye of the one who sees. The Real, exalted is He, is
+the Sight of the Cosmos (baṣar al-ʿālam) and He is the one who sees. He
+is the Knower of the possible things, and he has not perceived anything
+but what was in His knowledge from the forms of the possible things.
+Thus, the cosmos was made manifest between the Cloud and the Vision
+of the Real (ruʾyat al-ḥaqq). What is made manifest indicates the one who
+sees, and that is the Real. So discern and know what you are  (Futūḥāt, 9.361).
 
 ## Chronology of The Illumined Tomb
 
@@ -280,6 +285,8 @@ Documentary Sources.* Aga Khan Program for Islamic Architecture, 1989.
 Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 2002.
+
+Karjoo-Ravary, Ali. "Mapping the Unseen: Ibn al-ʿArabī’s Maps in Chapter 371 of al-Futūḥāt al-Makkiyya". Journal of Sufi Studies 12.1 (2023): 1-64.
 
 Moin, A. Azfar. *The Millennial Sovereign: Sacred Kingship and Sainthood in Islam.* United Kingdom, Columbia University Press, 2012.
 
