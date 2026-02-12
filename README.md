@@ -103,10 +103,10 @@ Begley, W. E., and Ziyaud-Din A. Desai, compilers and translators. Taj Mahal: Th
 > And the cosmos, when you gaze at its reality, is a vanishing accident
 > (ʿaraḍ zāʾil) … The fixed substance (al-jawhar al-thābit) is the Cloud,
 > which is nothing but the Breath of the all-Merciful, and the cosmos is
-> everything that has become manifest in it of the forms. They are acci-
-> dents that can possibly vanish. These forms are the possible things, and
-> their relationship to the Cloud is the relation of forms that become mani-
-> fest in a mirror to the eye of the one who sees. The Real, exalted is He, is
+> everything that has become manifest in it of the forms. They are accidents
+> that can possibly vanish. These forms are the possible things, and
+> their relationship to the Cloud is the relation of forms that become manifest
+> in a mirror to the eye of the one who sees. The Real, exalted is He, is
 > the Sight of the Cosmos (baṣar al-ʿālam) and He is the one who sees. He
 > is the Knower of the possible things, and he has not perceived anything
 > but what was in His knowledge from the forms of the possible things.
@@ -274,6 +274,8 @@ Jahan and Mumtaz. Gouache painting by an Indian painter.
 
 *The Message of the Qurʼan.* Translated by Muhammad Asad, Book
 Foundation, 2004.
+
+Balasubramaniam, R. "New insights on the modular planning of the Taj Mahal." Current Science (2009): 42-49.
 
 Begley, Wayne E. "The Myth of the Taj Mahal and a New Theory of Its
 Symbolic Meaning." *The Art Bulletin*, vol. 61, no. 1, 1979, pp. 7-37.
