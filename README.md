@@ -98,21 +98,21 @@ Begley, W. E., and Ziyaud-Din A. Desai, compilers and translators. Taj Mahal: Th
 
 ## Introduction
 
-The cosmos is nothing in its existence except for the forms (al-ṣuwar)
-that were received by the Cloud and thus achieved manifestation in it.
-And the cosmos, when you gaze at its reality, is a vanishing accident
-(ʿaraḍ zāʾil) … The fixed substance (al-jawhar al-thābit) is the Cloud,
-which is nothing but the Breath of the all-Merciful, and the cosmos is
-everything that has become manifest in it of the forms. They are acci-
-dents that can possibly vanish. These forms are the possible things, and
-their relationship to the Cloud is the relation of forms that become mani-
-fest in a mirror to the eye of the one who sees. The Real, exalted is He, is
-the Sight of the Cosmos (baṣar al-ʿālam) and He is the one who sees. He
-is the Knower of the possible things, and he has not perceived anything
-but what was in His knowledge from the forms of the possible things.
-Thus, the cosmos was made manifest between the Cloud and the Vision
-of the Real (ruʾyat al-ḥaqq). What is made manifest indicates the one who
-sees, and that is the Real. So discern and know what you are  (Futūḥāt, 9.361).
+> The cosmos is nothing in its existence except for the forms (al-ṣuwar)
+> that were received by the Cloud and thus achieved manifestation in it.
+> And the cosmos, when you gaze at its reality, is a vanishing accident
+> (ʿaraḍ zāʾil) … The fixed substance (al-jawhar al-thābit) is the Cloud,
+> which is nothing but the Breath of the all-Merciful, and the cosmos is
+> everything that has become manifest in it of the forms. They are acci-
+> dents that can possibly vanish. These forms are the possible things, and
+> their relationship to the Cloud is the relation of forms that become mani-
+> fest in a mirror to the eye of the one who sees. The Real, exalted is He, is
+> the Sight of the Cosmos (baṣar al-ʿālam) and He is the one who sees. He
+> is the Knower of the possible things, and he has not perceived anything
+> but what was in His knowledge from the forms of the possible things.
+> Thus, the cosmos was made manifest between the Cloud and the Vision
+> of the Real (ruʾyat al-ḥaqq). What is made manifest indicates the one who
+> sees, and that is the Real. So discern and know what you are  (Futūḥāt, 9.361).
 
 ## Chronology of The Illumined Tomb
 
