@@ -275,8 +275,6 @@ Jahan and Mumtaz. Gouache painting by an Indian painter.
 *The Message of the Qurʼan.* Translated by Muhammad Asad, Book
 Foundation, 2004.
 
-Balasubramaniam, R. "New insights on the modular planning of the Taj Mahal." Current Science (2009): 42-49.
-
 Begley, Wayne E. "The Myth of the Taj Mahal and a New Theory of Its
 Symbolic Meaning." *The Art Bulletin*, vol. 61, no. 1, 1979, pp. 7-37.
 
@@ -289,8 +287,6 @@ Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 2002.
 
 Karjoo-Ravary, Ali. "Mapping the Unseen: Ibn al-ʿArabī’s Maps in Chapter 371 of al-Futūḥāt al-Makkiyya". Journal of Sufi Studies 12.1 (2023): 1-64.
-
-Moin, A. Azfar. *The Millennial Sovereign: Sacred Kingship and Sainthood in Islam.* United Kingdom, Columbia University Press, 2012.
 
 Sehrawat, Sourabh. <a href="https://unsplash.com/photos/a-group-of-people-standing-in-front-of-a-white-building-fR7Gj0qSk64">"a group of people standing in front of a white building \[Taj Mahal\]"<a>. Unsplash, 2022, unsplash.com/photos/a-group-of-people-standing-in-front-of-a-white-building-fR7Gj0qSk64. 1 January 2023.
 
