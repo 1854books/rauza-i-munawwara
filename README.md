@@ -112,7 +112,7 @@ Begley, W. E., and Ziyaud-Din A. Desai, compilers and translators. Taj Mahal: Th
 > but what was in His knowledge from the forms of the possible things.
 > Thus, the cosmos was made manifest between the Cloud and the Vision
 > of the Real (ruʾyat al-ḥaqq). What is made manifest indicates the one who
-> sees, and that is the Real. So discern and know what you are  (Futūḥāt, 9.361).
+> sees, and that is the Real. So discern and know what you are  (al-Futūḥāt al-Makkiyya, 9.361).
 
 ## Chronology of The Illumined Tomb
 
