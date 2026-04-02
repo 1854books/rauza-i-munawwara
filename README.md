@@ -12,16 +12,7 @@ Kalpit Parikh<br>
 मृत्योर्माऽमृतं गमय ॥<br>
 ॐ शान्तिः शान्तिः शान्तिः ॥<br>
 
-## Copyright
-
-Copyright © 2023 Kalpit Parikh
-
-All rights reserved.
-
-No part of this publication may be reproduced, stored in a retrieval
-system, stored in a database and / or published in any form or by any
-means, electronic, mechanical, photocopying, recording or otherwise,
-without the prior written permission of the publisher.
+## Impressum
 
 Published in  કલા નગરી, *kalā nagarī*: "city of art"[^3] by મન, *man*: "mind"[^4]
 
