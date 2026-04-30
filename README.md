@@ -118,7 +118,7 @@ Begley, W. E., and Ziyaud-Din A. Desai, compilers and translators. Taj Mahal: Th
 0964 AH Hemu Captures Agra<br>
 0965 AH Akbar Captures Agra<br>
 <br>
-0966 AH Akbar Makes Agra The Capital<br>
+0966 AH Akbar Makes Agra The Capital of <br>
 1039 AH Shah Jahan I Re-names Agra Akbarbad<br>
 1041 AH Shah Jahan I Commissions Construction of Tomb for Mumtaz Mahal<br>
 1042 AH Shah Jahan I Inters Mumtaz Mahal In The Illumined Tomb<br>
@@ -126,13 +126,15 @@ Begley, W. E., and Ziyaud-Din A. Desai, compilers and translators. Taj Mahal: Th
 1046 AH Amanat Khan Shirazi Begins Inscription Work<br>
 1062 AH Muhi al-Din Muhammad Carries Out Building Repairs<br>
 1077 AH Aurangzeb Alamgir I Inters Shah Jahan I In The Illumined Tomb<br>
+1174 AH Suraj Mal Captures Agra<br>
 <br>
-1175 AH Suraj Mal Captures Agra<br>
 1188 AH Mirza Najaf Khan Catpures Agra<br>
 1200 AH Mahadji Shinde Captures Agra<br>
 1218 AH The East India Company Captures Agra<br>
 <br>
 1222 AH Gilbert John Elliot-Murray-Kynynmound Carries Out Building Repairs<br>
+1273 AH Battle of Agra<br>
+<br>
 1327 AH George Nathaniel Curzon Carries Out Building Repairs And Modifications<br>
 <br>
 1437 AH Archeological Survey of India Begins Carrying Out Maintenance<br>
