@@ -130,12 +130,12 @@ Begley, W. E., and Ziyaud-Din A. Desai, compilers and translators. Taj Mahal: Th
 1175 AH Suraj Mal Captures Agra<br>
 1188 AH Mirza Najaf Khan Catpures Agra<br>
 1200 AH Mahadji Shinde Captures Agra<br>
-1218 AH The East India Tea Company Captures Agra<br>
+1218 AH The East India Company Captures Agra<br>
 <br>
 1222 AH Gilbert John Elliot-Murray-Kynynmound Carries Out Building Repairs<br>
 1327 AH George Nathaniel Curzon Carries Out Building Repairs And Modifications<br>
 <br>
-1437 AH Archeological Survey of India Begins Intermittent Repairs<br>
+1437 AH Archeological Survey of India Begins Carrying Out Maintenance<br>
 
 ## Part I: Farman 
 
