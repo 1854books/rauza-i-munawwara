@@ -126,8 +126,8 @@ Begley, W. E., and Ziyaud-Din A. Desai, compilers and translators. Taj Mahal: Th
 1046 AH Amanat Khan Shirazi Begins Inscription Work<br>
 1062 AH Muhi al-Din Muhammad Carries Out Building Repairs<br>
 1077 AH Aurangzeb Alamgir I Inters Shah Jahan I In The Illumined Tomb<br>
-1174 AH Suraj Mal Captures Agra<br>
 <br>
+1174 AH Suraj Mal Captures Agra<br>
 1188 AH Mirza Najaf Khan Catpures Agra<br>
 1200 AH Mahadji Shinde Captures Agra<br>
 1218 AH The East India Company Captures Agra<br>
